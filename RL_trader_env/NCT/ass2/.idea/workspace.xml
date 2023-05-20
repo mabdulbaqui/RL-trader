@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d5003f7-74c5-4498-a627-c775ea40ce76" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ass2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ass2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clustring/ML_clustring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Clustring/ML_clustring.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902417.xcrown-Lenovo-Legion-5-15ARH05.16318.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902441.xcrown-Lenovo-Legion-5-15ARH05.16318.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902464.xcrown-Lenovo-Legion-5-15ARH05.16318.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902486.xcrown-Lenovo-Legion-5-15ARH05.16318.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902507.xcrown-Lenovo-Legion-5-15ARH05.16318.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902528.xcrown-Lenovo-Legion-5-15ARH05.16318.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902549.xcrown-Lenovo-Legion-5-15ARH05.16318.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902573.xcrown-Lenovo-Legion-5-15ARH05.16318.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902599.xcrown-Lenovo-Legion-5-15ARH05.16318.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902628.xcrown-Lenovo-Legion-5-15ARH05.16318.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902652.xcrown-Lenovo-Legion-5-15ARH05.16318.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902673.xcrown-Lenovo-Legion-5-15ARH05.16318.11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902693.xcrown-Lenovo-Legion-5-15ARH05.16318.12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902714.xcrown-Lenovo-Legion-5-15ARH05.16318.13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902736.xcrown-Lenovo-Legion-5-15ARH05.16318.14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902757.xcrown-Lenovo-Legion-5-15ARH05.16318.15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902777.xcrown-Lenovo-Legion-5-15ARH05.16318.16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902800.xcrown-Lenovo-Legion-5-15ARH05.16318.17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902822.xcrown-Lenovo-Legion-5-15ARH05.16318.18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902844.xcrown-Lenovo-Legion-5-15ARH05.16318.19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902867.xcrown-Lenovo-Legion-5-15ARH05.16318.20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902889.xcrown-Lenovo-Legion-5-15ARH05.16318.21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902913.xcrown-Lenovo-Legion-5-15ARH05.16318.22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902934.xcrown-Lenovo-Legion-5-15ARH05.16318.23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902955.xcrown-Lenovo-Legion-5-15ARH05.16318.24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902976.xcrown-Lenovo-Legion-5-15ARH05.16318.25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683902997.xcrown-Lenovo-Legion-5-15ARH05.16318.26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683903019.xcrown-Lenovo-Legion-5-15ARH05.16318.27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_0/events.out.tfevents.1683903041.xcrown-Lenovo-Legion-5-15ARH05.16318.28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683917996.xcrown-Lenovo-Legion-5-15ARH05.38190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918533.xcrown-Lenovo-Legion-5-15ARH05.5526.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918537.xcrown-Lenovo-Legion-5-15ARH05.5526.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918539.xcrown-Lenovo-Legion-5-15ARH05.5526.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918542.xcrown-Lenovo-Legion-5-15ARH05.5526.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918544.xcrown-Lenovo-Legion-5-15ARH05.5526.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918546.xcrown-Lenovo-Legion-5-15ARH05.5526.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918549.xcrown-Lenovo-Legion-5-15ARH05.5526.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918551.xcrown-Lenovo-Legion-5-15ARH05.5526.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918553.xcrown-Lenovo-Legion-5-15ARH05.5526.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918555.xcrown-Lenovo-Legion-5-15ARH05.5526.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918558.xcrown-Lenovo-Legion-5-15ARH05.5526.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918560.xcrown-Lenovo-Legion-5-15ARH05.5526.11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918562.xcrown-Lenovo-Legion-5-15ARH05.5526.12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918565.xcrown-Lenovo-Legion-5-15ARH05.5526.13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918567.xcrown-Lenovo-Legion-5-15ARH05.5526.14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918569.xcrown-Lenovo-Legion-5-15ARH05.5526.15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918572.xcrown-Lenovo-Legion-5-15ARH05.5526.16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918574.xcrown-Lenovo-Legion-5-15ARH05.5526.17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918576.xcrown-Lenovo-Legion-5-15ARH05.5526.18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918578.xcrown-Lenovo-Legion-5-15ARH05.5526.19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918581.xcrown-Lenovo-Legion-5-15ARH05.5526.20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918583.xcrown-Lenovo-Legion-5-15ARH05.5526.21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918585.xcrown-Lenovo-Legion-5-15ARH05.5526.22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918587.xcrown-Lenovo-Legion-5-15ARH05.5526.23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918589.xcrown-Lenovo-Legion-5-15ARH05.5526.24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918592.xcrown-Lenovo-Legion-5-15ARH05.5526.25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918594.xcrown-Lenovo-Legion-5-15ARH05.5526.26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918596.xcrown-Lenovo-Legion-5-15ARH05.5526.27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918599.xcrown-Lenovo-Legion-5-15ARH05.5526.28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918661.xcrown-Lenovo-Legion-5-15ARH05.5526.29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918663.xcrown-Lenovo-Legion-5-15ARH05.5526.30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918665.xcrown-Lenovo-Legion-5-15ARH05.5526.31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918668.xcrown-Lenovo-Legion-5-15ARH05.5526.32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918670.xcrown-Lenovo-Legion-5-15ARH05.5526.33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918672.xcrown-Lenovo-Legion-5-15ARH05.5526.34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918675.xcrown-Lenovo-Legion-5-15ARH05.5526.35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918677.xcrown-Lenovo-Legion-5-15ARH05.5526.36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918679.xcrown-Lenovo-Legion-5-15ARH05.5526.37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918682.xcrown-Lenovo-Legion-5-15ARH05.5526.38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918684.xcrown-Lenovo-Legion-5-15ARH05.5526.39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918686.xcrown-Lenovo-Legion-5-15ARH05.5526.40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918688.xcrown-Lenovo-Legion-5-15ARH05.5526.41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918690.xcrown-Lenovo-Legion-5-15ARH05.5526.42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918693.xcrown-Lenovo-Legion-5-15ARH05.5526.43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918695.xcrown-Lenovo-Legion-5-15ARH05.5526.44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918697.xcrown-Lenovo-Legion-5-15ARH05.5526.45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918699.xcrown-Lenovo-Legion-5-15ARH05.5526.46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918702.xcrown-Lenovo-Legion-5-15ARH05.5526.47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918704.xcrown-Lenovo-Legion-5-15ARH05.5526.48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918706.xcrown-Lenovo-Legion-5-15ARH05.5526.49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918708.xcrown-Lenovo-Legion-5-15ARH05.5526.50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918711.xcrown-Lenovo-Legion-5-15ARH05.5526.51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918713.xcrown-Lenovo-Legion-5-15ARH05.5526.52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918715.xcrown-Lenovo-Legion-5-15ARH05.5526.53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918717.xcrown-Lenovo-Legion-5-15ARH05.5526.54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918720.xcrown-Lenovo-Legion-5-15ARH05.5526.55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918722.xcrown-Lenovo-Legion-5-15ARH05.5526.56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/logs/A2C_B_0/events.out.tfevents.1683918724.xcrown-Lenovo-Legion-5-15ARH05.5526.57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C100000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C110000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C120000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C130000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C140000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C150000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C160000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C170000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C180000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C190000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C200000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C210000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C220000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C230000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C240000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C250000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C260000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C270000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C280000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C290000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C30000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C40000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C50000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C60000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C70000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C80000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C/A2C90000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B1000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B10000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B11000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B12000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B13000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B14000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B15000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B16000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B17000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B18000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B19000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B2000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B20000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B21000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B22000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B23000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B24000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B25000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B26000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B27000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B28000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B29000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B3000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B4000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B5000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B6000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B7000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B8000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/models/A2C_B/A2C_B9000.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/stock_env.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RL/stock_env.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL/stock_env_base.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RL/stock_env_base.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/all.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing/all.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time series/ARIMA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/time series/ARIMA.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2Q3ENL3LCAZjPkdpc0WZO8A0S5G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
